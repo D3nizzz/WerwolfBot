@@ -99,11 +99,9 @@ Zahlungssystem.
 
 ## 9. Kontakt
 
-Fragen zu diesen Nutzungsbedingungen bitte an den Bot-Owner richten, siehe
-`/contact` im Bot oder das verlinkte Support-/GitHub-Repository, falls
-vorhanden.
+Fragen zu diesen Nutzungsbedingungen bitte über den Befehl `/contact` im
+Bot an den Bot-Owner richten.
 
 ---
 
-*Diese Seite kann sich mit zukünftigen Bot-Updates ändern. Stand: siehe
-Commit-Historie des Repositories, falls öffentlich einsehbar.*
+*Diese Seite kann sich mit zukünftigen Bot-Updates ändern. Stand: 24.08.2026.*
