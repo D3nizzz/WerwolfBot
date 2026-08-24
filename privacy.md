@@ -29,16 +29,22 @@ gespeichert, auf dem der Bot läuft.
 
 ## Eigene Daten löschen
 
-Über den Befehl `/werwolf_privacy_loeschen` kann jede Person ihre
-eigene, gesamte gespeicherte Statistik jederzeit unwiderruflich löschen
-lassen. Serverbezogene Konfigurationsdaten (Rollenpresets) können vom
-Bot-Owner auf Anfrage gelöscht werden.
+Über den Befehl `/privacy_delete` kann jede Person ihre eigene, gesamte
+gespeicherte Statistik jederzeit unwiderruflich löschen lassen.
+Serverbezogene Konfigurationsdaten (Rollenpresets) können vom Bot-Owner
+auf Anfrage gelöscht werden (siehe Kontakt unten).
 
 ## Nutzungsbedingungen (Kurzfassung)
 
-- Der Bot wird kostenlos und ohne Garantie auf ständige Verfügbarkeit
-  bereitgestellt ("as is"). Es besteht kein Anspruch auf einen
-  bestimmten Funktionsumfang oder eine bestimmte Betriebszeit.
+Die vollständigen Nutzungsbedingungen findest du in [TERMS.md](./TERMS.md).
+Kurzfassung:
+
+- Die Grundversion des Bots ist kostenlos nutzbar; optionale
+  kostenpflichtige Zusatzfunktionen ("Premium") können angeboten werden,
+  siehe TERMS.md.
+- Der Bot wird ohne Garantie auf ständige Verfügbarkeit bereitgestellt
+  ("as is"). Es besteht kein Anspruch auf einen bestimmten
+  Funktionsumfang oder eine bestimmte Betriebszeit.
 - Missbrauch (z. B. absichtliches Stören anderer Server, Ausnutzen von
   Fehlern, Spam) kann dazu führen, dass ein Server oder Nutzer-Account
   vom Bot-Owner gesperrt wird.
@@ -47,12 +53,10 @@ Bot-Owner auf Anfrage gelöscht werden.
 
 ## Kontakt
 
-Fragen, Lösch-Anfragen für Server-Konfigurationsdaten oder Fehler-
-Meldungen bitte an den Bot-Owner richten (z. B. über den Server, auf
-dem der Bot ursprünglich betrieben wird, oder das verlinkte
-Support-/GitHub-Repository, falls vorhanden).
+Fragen, Lösch-Anfragen für Server-Konfigurationsdaten oder
+Fehlermeldungen bitte direkt über den Befehl `/contact` im Bot stellen
+(zeigt den Discord-Kontakt des Bot-Owners).
 
 ---
 
-*Diese Seite kann sich mit zukünftigen Bot-Updates ändern. Stand: siehe
-Commit-Historie des Repositories, falls öffentlich einsehbar.*
+*Diese Seite kann sich mit zukünftigen Bot-Updates ändern. Stand: 24.08.2026.*
