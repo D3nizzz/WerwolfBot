@@ -3,7 +3,7 @@
 Diese Nutzungsbedingungen gelten für die Nutzung des Werwolf-Discord-Bots
 ("der Bot", "wir") auf Discord. Mit dem Einladen oder Nutzen des Bots
 akzeptierst du diese Bedingungen. Sie ergänzen die separate
-[Datenschutzerklärung](./PRIVACY.md), die beschreibt, welche Daten
+[Datenschutzerklärung](./privacy.md), die beschreibt, welche Daten
 gespeichert werden.
 
 ## 1. Beschreibung des Dienstes
