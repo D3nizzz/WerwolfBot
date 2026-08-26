@@ -36,7 +36,7 @@ auf Anfrage gelöscht werden (siehe Kontakt unten).
 
 ## Nutzungsbedingungen (Kurzfassung)
 
-Die vollständigen Nutzungsbedingungen findest du in [TERMS.md](./TERMS.md).
+Die vollständigen Nutzungsbedingungen findest du in [TERMS.md](./terms.md).
 Kurzfassung:
 
 - Die Grundversion des Bots ist kostenlos nutzbar; optionale
